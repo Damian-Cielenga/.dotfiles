@@ -43,7 +43,7 @@ nnoremap <Leader>3 :w<CR>:!python3 % example<CR>
 "plugins
 call plug#begin('~/.config/nvim/autoload/plugged')
 Plug 'vimwiki/vimwiki'
-Plug 'jiangmiao/auto-pairs'
+"Plug 'jiangmiao/auto-pairs'
 Plug 'drewtempelmeyer/palenight.vim'
 Plug 'arcticicestudio/nord-vim'
 Plug 'joshdick/onedark.vim'

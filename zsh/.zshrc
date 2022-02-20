@@ -110,4 +110,5 @@ alias grep="grep --color=auto -i"
 alias cft="vim /home/mnt/.tmux.conf"
 alias ns="nslookup"
 alias qn="kill -3 $(ps aux | grep notepad | awk '{print $2}' | head -n 1)"
-
+alias code="code ."
+alias pytest="pytest -v"
